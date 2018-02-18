@@ -1,5 +1,5 @@
 # Charas
-The cleanest RPG sprite builder around.
+The cleanest sprite builder around.
 
 ##### Charas is a user-friendly, 2D RPG sprite builder.
 
