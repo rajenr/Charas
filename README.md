@@ -7,4 +7,4 @@ The cleanest RPG sprite builder around.
 Primarily utilizing JLayeredPane of Java's Swing toolkit to divide depth-range into several different layers, Charas ensures all sprite components layer properly without number specifications for specific depths.
 
 #### GUI
-![alt text](img/gui.JPG)
+<img src="/img/gui.JPG" width="250">
