@@ -9,4 +9,4 @@ Primarily utilizing JLayeredPane of Java's Swing toolkit to divide depth-range i
 #### GUI
 <img src="/img/gui_0.JPG" width="250"><img src="/img/gui_1.JPG" width="250"><img src="/img/gui_2.JPG" width="250">
 
-Sprite art c. Reesha Rajen
+Sprite art by Reesha Rajen
